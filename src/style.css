@@ -1,0 +1,9 @@
+:root{font-family:system-ui,sans-serif;color:#17243c;background:#eff4fb}
+body{margin:0}.shell{max-width:720px;margin:0 auto;padding:clamp(1rem,5vw,3rem)}
+header{background:#142541;color:#fff;border-radius:1.2rem;padding:clamp(1.3rem,5vw,2.4rem);margin-bottom:1.5rem}
+h1{font-size:clamp(2.1rem,6vw,3.5rem);margin:.2rem 0}.eyebrow{color:#a7d7ff;letter-spacing:.12em;font-size:.78rem}.author{margin-bottom:0}
+.card{background:#fff;border:1px solid #d5deea;border-radius:1rem;padding:1.5rem}
+.row{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap}.row h2{margin:0}
+.row button{border:1px solid #526783;background:#fff;color:#17243c;border-radius:.4rem;padding:.5rem .9rem;cursor:pointer;font:inherit}
+.status{display:inline-block;background:#e4f6ee;color:#14533d;padding:.35rem .7rem;border-radius:.4rem;margin-top:1rem}
+dt{color:#536682;font-size:.9rem}dd{margin:.25rem 0 0;font-size:1.1rem;font-weight:600;overflow-wrap:anywhere}
